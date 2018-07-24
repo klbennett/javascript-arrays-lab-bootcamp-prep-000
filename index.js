@@ -25,4 +25,6 @@ function prependKitten(name, array) {
   return ['Arnold', ...kittens,]
 }
 
-function
+function removeLastKitten(array) {
+  kittens.slice
+}
