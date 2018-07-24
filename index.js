@@ -25,4 +25,4 @@ function prependKitten(name, array) {
   return ['Arnold', ...kittens,]
 }
 
-kittens
+function
